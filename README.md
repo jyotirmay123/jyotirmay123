@@ -9,7 +9,7 @@
 - 😄 Pronouns: JJ
 <!-- - ⚡ Fun fact: No fun -->
 
-## :profile: Profile
+## 🧔 Profile
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&hide=stars,issues&count_private=true&show_icons=true"/>
@@ -21,3 +21,6 @@
 ## :trophy: Trophy
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmay123" alt="jyotirmay123" /></a> </p>
+
+
+[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123)](https://github.com/jyotirmay123/github-readme-activity-graph)
