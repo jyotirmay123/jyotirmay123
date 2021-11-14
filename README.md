@@ -1,8 +1,8 @@
 <!-- REF LATER: https://github.com/sudip-mondal-2002  -->
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://jyotirmays.com/img/logo.png" height="200"/>
-</p>
+</p> -->
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Jyotirmay;+Thanks+for+visiting!)
 
@@ -52,13 +52,13 @@ https://www.quora.com/profile/Jyotirmay-Senapati)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmay123&repo=BNN-for-Uncertainty-Estimation-of-Imaging-Biomarkers&show_icons=true)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rostlab&repo=JS18_ProjectA_Group2&show_icons=true)
 
-## 👨‍💼 Coding Activity
+<!-- ## 👨‍💼 Coding Activity
 <details>
   <p align="center"> 
     <img src="https://wakatime.com/share/@939aac73-2b25-4821-b877-22441908f45d/20fe9577-3991-43d7-8089-692b5acd7869.svg" height="500" alt="Coding Time" /> 
     <img src="https://wakatime.com/share/@939aac73-2b25-4821-b877-22441908f45d/32e7cb72-0d24-435e-82f0-50bc4af5c6ce.svg" height="500" alt="Coding Languages" />
   </p>
-</details>
+</details> -->
 
 <!-- <table>
   <td align="center">
