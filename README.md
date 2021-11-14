@@ -12,10 +12,10 @@
 ## 🧔 Profile
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&show_icons=true" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&show_icons=true" height="30%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&count_private=true&layout=compact&hide=jupyter%20notebook" height="220px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&count_private=true&layout=compact&hide=jupyter%20notebook" height="30%"/>
 </a>
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotirmay123&count_private=true" alt="jyotirmay123" />
