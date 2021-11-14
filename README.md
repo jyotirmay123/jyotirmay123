@@ -26,14 +26,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmay123" alt="jyotirmay123" /></a> </p>
 
 ## Stats
-[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123)](https://github.com/jyotirmay123/github-readme-activity-graph)
-<!-- #### Stats
-<a href="https://github.com/anuraghazra1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=jyotirmay123&show_icons=true&include_all_commits=true" alt="Jyotirmay's github stats" />
-</a>
-<a href="https://github.com/anuraghazra1/github-readme-stats">
-  <!-- Change the `github-readme-stats.jyotirmay123.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jyotirmay123&layout=compact" />
-</a>
-<br /> -->
+[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123&count_private=true&theme=dark)](https://github.com/jyotirmay123/github-readme-activity-graph)
 
