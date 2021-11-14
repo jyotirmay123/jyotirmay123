@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on some cool lending API based solutions backed by AI.
 - 🌱 I’m currently learning Azure Cloud Services.
@@ -9,10 +9,15 @@
 - 😄 Pronouns: JJ
 <!-- - ⚡ Fun fact: No fun -->
 
+## :profile: Profile
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&layout=compact&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&layout=compact" />
 </a>
-----
+
+## :trophy: Trophy
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmay123" alt="jyotirmay123" /></a> </p>
