@@ -26,5 +26,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotirmay123" alt="jyotirmay123" /></a> </p>
 
 ## Stats
-[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123&count_private=true&theme=dark)](https://github.com/jyotirmay123/github-readme-activity-graph)
+[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123&count_private=true&bg_color=FFFFFF&color=000000&line=000000&point=00FF00)](https://github.com/jyotirmay123/github-readme-activity-graph)
 
