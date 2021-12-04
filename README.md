@@ -9,7 +9,7 @@
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=150px/>
+         height=200px/>
   </a>
 </div>
 
@@ -37,7 +37,7 @@ https://www.quora.com/profile/Jyotirmay-Senapati)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/JjSenapati)](https://twitter.com/JjSenapati) -->
 
-## ⚗️  Technical Skills
+## ⚗️  Tools and Technologies
 
 <!-- __Proficient:__ Python, Django, Flask, Postgres, Docker, CI / CD, Pytorch / NumPy / Pandas / scikit-learn / Matplotlib /
 NiBabel, Agile/Scrum/Kanban, Deep Learning Products.  
@@ -126,6 +126,75 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
         alt="heroku" width="40" height="40" /> </a>
 </p>
+
+## 👷‍♂️ Experience
+<table border="0">
+ <tr>
+     <td>
+       
+### PROFESSIONAL
+       
+### Machine Learning Research Assistant — [AI-Med](http://ai-med.de/index.php), [LMU Munich](https://www.lmu.de/de/index.html) (Munich)  --  Apr 2019 - Feb 2021
+Research group for AI in Medical Imaging, lead by Prof. Wachinger; develops machine learning models for healthcare
+       
+* `Tech stack:` **Python**, **Flask**, **Docker**, **PyTorch**, **scikit-learn/Pandas/Matplotlib/NumPy/NiBabel**, **Nginx**, **AWS**
+* Offered to work full-time starting in August 2020 after successfully working together on Master thesis
+* Implemented state of the art deep learning models (Quicknat, U-Nets) for liver and spleen segmentation using
+nnU-net, Octave-Conv, SWA, SWAG, Thick-slices, Multi-phases
+* Developed data pre-processing pipelines to prepare 23.000+ MRI scans for input into deep learning segmentation
+* Built web application using Python/Flask/Docker to visualise MRI scans and its segmentations/heatmaps
+predicted by machine learning models; deployed using AWS EC2/S3/Lambda
+
+### Machine Learning Research (intern) — [Disney Research Lab](https://studios.disneyresearch.com/) (Zurich)  --  Nov 2018 - Feb 2019
+       
+* `Tech stack:` **Python**, **Keras**, **Pandas/Matplotlib/Numpy**
+* Collected, cleaned and prepared datasets of facial expressions (e.g. cry, yawn) to be used to classify emotional
+reactions of movie viewers and measure which pieces of a movie are engaging
+* Developed deep learning CNN models to classify 8 basic facial expressions from Cohn-Kanade dataset
+       
+### Data Engineer (working student) — [Quant-IP](https://quant-ip.com/) (Munich)  --  Mar 2018 - Oct 2018
+quant-ip.com is a data provider serving large financial institutions
+
+* `Tech stack:` **Python**, **Flask**, **TypeScript/JavaScript**, **Angular**, **Ionic**
+* Built web application to visualise financial data and innovation score using Flask/Plotly at Bloomberg Magic
+* Developed web and mobile application in Flask, Angular and Ionic to analyse and visualise company innovations
+and growth, based on patent data
+       
+### Software engineer — [Pega System](https://www.pega.com/) (Bangalore, India) --  Mar 2016 - Mar 2017
+American software company for customer relationship management and digital process automation
+
+* `Tech stack:` **JavaScript**, **HTML5**, **CSS3**
+* Solved client issues in their web applications using JavaScript, HTML and CSS
+* Trained 5 new employees as part of Pega recruitment and UI technology training group
+       
+### Software engineer — [Tata Consultancy Services](https://www.tcs.com/) (Bangalore, India) -- Mar 2014 - Mar 2016
+Indian IT services and consulting company, largest company by market capitalization in India
+       
+* `Tech stack:` **JavaScript/TypeScript**, **Angular**, **Node**, **MongoDB**, **HTML**, **CSS**, **PHP**, **MySQL**
+* Awarded TCS GEMS award for excellent coding skills among 500 co-workers at the Qualcomm account
+* Managed and improved data consistency of 200.000+ records across 500 MySQL tables for Qualcomm application
+* Developed user & administration interface and CRON tasks for Qualcomm learning management web application
+* Built hybrid app with Angular used by employees of Qualcomm and TCS
+       </td>
+     </tr>
+    <tr>
+      <td>
+        
+### EDUCATIONAL
+        
+### M.Sc. Informatics — [TU Munich](https://www.tum.de/) (Munich)  --  2017 - 2020
+* [Master Thesis](https://arxiv.org/pdf/2008.12680.pdf) which was accepted at **MLMI2020** (machine learning
+conference on medical imaging): Analysed deep learning model accuracy using PyTorch/scikit-learn/NumPy;
+compared 4 state of the art Bayesian neural networks for image segmentation and developed improvements
+* **`i-Graph project:`** Wrote web application in TypeScript using RASA-NLU to translate language into SQL queries
+* **`Expression prediction project:`** Detected emotions on image and video data using PyTorch and OpenCV
+* **`Allianz HackaTUM-2019:`** Won 1st prize out of 37 teams for detecting cracks on metal using image analysis
+        
+### Bachelor Electronics and Communications — [Gandhi Institute](https://www.giet.edu/) (Gunupur, India)  --  2009 - 2013
+* Above-average student (top 15%, GPA 8.3); wrote bachelor thesis detecting cracks in railway tracks based on data
+      </td>
+    </tr>
+   </table>
 
 ## ⏲️ Daily Timeline
 
