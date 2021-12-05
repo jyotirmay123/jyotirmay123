@@ -133,6 +133,15 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
      <td>
        
 ### 🪄 PROFESSIONAL
+
+### Full-Stack Data Science Engineer — [Prestatech GMBH](https://prestatech.com), Berlin (Berlin)  --  Apr 2021 - Present
+One of the advanced API based and Cloud-AI-backed Banking Analytics, and Instant Lending solutions provider
+       
+* `Tech stack:` **Python**, **Azure Repos.Pipelines.Functions.ML-Workspace.Compute.**, **Docker**, **Postman API**, **NLP**
+* End-to-end development & management of 7 unique APIs for the data-science and OpenAPI team.
+* Developed Entity-Match service for the fastest match against a million records using Ahocorasick algorithm.
+Further loading optimization to decrease the latency by 30%.
+* Generating a PDF report from microservices and building a frontend.
        
 ### Machine Learning Research Assistant — [AI-Med](http://ai-med.de/index.php), [LMU Munich](https://www.lmu.de/de/index.html) (Munich)  --  Apr 2019 - Feb 2021
 Research group for AI in Medical Imaging, lead by Prof. Wachinger; develops machine learning models for healthcare
