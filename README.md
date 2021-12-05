@@ -132,7 +132,7 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
  <tr>
      <td>
        
-### PROFESSIONAL
+### 🪄 PROFESSIONAL
        
 ### Machine Learning Research Assistant — [AI-Med](http://ai-med.de/index.php), [LMU Munich](https://www.lmu.de/de/index.html) (Munich)  --  Apr 2019 - Feb 2021
 Research group for AI in Medical Imaging, lead by Prof. Wachinger; develops machine learning models for healthcare
@@ -180,7 +180,7 @@ Indian IT services and consulting company, largest company by market capitalizat
     <tr>
       <td>
         
-### EDUCATIONAL
+### 📖 EDUCATIONAL
         
 ### M.Sc. Informatics — [TU Munich](https://www.tum.de/) (Munich)  --  2017 - 2020
 * [Master Thesis](https://arxiv.org/pdf/2008.12680.pdf) which was accepted at **MLMI2020** (machine learning
