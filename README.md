@@ -132,7 +132,7 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
  <tr>
      <td>
        
-### 🪄 PROFESSIONAL
+### 🐺 PROFESSIONAL
 
 ### Full-Stack Data Science Engineer — [Prestatech GMBH](https://prestatech.com), Berlin (Berlin)  --  Apr 2021 - Present
 One of the advanced API based and Cloud-AI-backed Banking Analytics, and Instant Lending solutions provider
