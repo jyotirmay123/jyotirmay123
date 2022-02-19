@@ -120,23 +120,23 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
         alt="heroku" width="40" height="40" /> </a>
 </p>
 
-<div align="right">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=140vw/>
+         height=20%/>
   </a>
 </div>
 
-<div align=right>
+<div>
   <a align=right href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=250" height=140vw/>
+    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=250" height=20%/>
   </a>
 </div>
 
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
-         height=140vw/>
+         height=20%/>
   </a>
 </div>
 
