@@ -127,6 +127,15 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
         alt="heroku" width="40" height="40" /> </a>
 </p>
 
+</br>
+</br>
+<div align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Time-Spent-Recently-On" 
+         height=200px/>
+  </a>
+</div>
+
 ## 👷‍♂️ Experience
 <table border="0">
  <tr>
@@ -221,13 +230,7 @@ compared 4 state of the art Bayesian neural networks for image segmentation and 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmay123&repo=BNN-for-Uncertainty-Estimation-of-Imaging-Biomarkers&show_icons=true)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rostlab&repo=JS18_ProjectA_Group2&show_icons=true) -->
 
-<!-- ## 👨‍💼 Coding Activity
-<details>
-  <p align="center"> 
-    <img src="https://wakatime.com/share/@939aac73-2b25-4821-b877-22441908f45d/20fe9577-3991-43d7-8089-692b5acd7869.svg" height="500" alt="Coding Time" /> 
-    <img src="https://wakatime.com/share/@939aac73-2b25-4821-b877-22441908f45d/32e7cb72-0d24-435e-82f0-50bc4af5c6ce.svg" height="500" alt="Coding Languages" />
-  </p>
-</details> -->
+
 
 <!-- <table>
   <td align="center">
