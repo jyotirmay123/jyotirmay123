@@ -192,7 +192,7 @@ Indian IT services and consulting company, largest company by market capitalizat
 ### 📖 EDUCATIONAL
         
 ### M.Sc. Informatics — [TU Munich](https://www.tum.de/) (Munich)  --  2017 - 2020
-* [Master Thesis](https://arxiv.org/pdf/2008.12680.pdf) which was accepted at **MLMI2020** (machine learning
+* [Master Thesis](https://arxiv.org/pdf/2008.12680.pdf) which was accepted at **[MLMI2020 - https://arxiv.org/pdf/2008.12680.pdf](https://arxiv.org/pdf/2008.12680.pdf)** (machine learning
 conference on medical imaging): Analysed deep learning model accuracy using PyTorch/scikit-learn/NumPy;
 compared 4 state of the art Bayesian neural networks for image segmentation and developed improvements
 * **`i-Graph project:`** Wrote web application in TypeScript using RASA-NLU to translate language into SQL queries
