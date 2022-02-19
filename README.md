@@ -6,18 +6,9 @@
 
 # 🧔 Profile
 
-<div align="right">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=200px/>
-  </a>
-</div>
-
 FullStack+DataScience Developer,  
 TUM Graduate, Berlin, Germany,  
 <https://www.jyotirmays.com>
-
-
 
 <!-- [![Website](https://img.shields.io/badge/-Website-purple?style=flat&labelColor=purple&logo=Google-Chrome&logoColor=white)](https://www.jyotirmays.com) -->
 
@@ -42,11 +33,7 @@ https://www.quora.com/profile/Jyotirmay-Senapati)
 <!-- __Proficient:__ Python, Django, Flask, Postgres, Docker, CI / CD, Pytorch / NumPy / Pandas / scikit-learn / Matplotlib /
 NiBabel, Agile/Scrum/Kanban, Deep Learning Products.  
 __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, Nginx, AWS / GCP -->
-<div align=right>
-  <a align=right href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=280" height=150px/>
-  </a>
-</div>
+
 
 <p align="left">
 <!-- Languages -->
@@ -127,14 +114,27 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
         alt="heroku" width="40" height="40" /> </a>
 </p>
 
-</br>
-</br>
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Time Spent Recently On" 
-         height=200px/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
+         height=147px/>
   </a>
 </div>
+
+<div align=right>
+  <a align=right href="https://github.com/anuraghazra/github-readme-stats">
+    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=250" height=147px/>
+  </a>
+</div>
+
+<div align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
+         height=147px/>
+  </a>
+</div>
+
+</br>
 
 ## 👷‍♂️ Experience
 <table border="0">
