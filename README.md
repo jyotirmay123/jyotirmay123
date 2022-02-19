@@ -131,7 +131,7 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 </br>
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Time-Spent-Recently-On" 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Time Spent Recently On" 
          height=200px/>
   </a>
 </div>
