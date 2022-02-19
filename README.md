@@ -18,6 +18,7 @@ Senior FullStack Developer (DataScience) </br>
 
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
+[![GoogleScholar](https://img.shields.io/badge/-Citations-yellow?&style=flat&logo=GoogleScholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ#gsc_rsb_st)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat)](https://www.hackerrank.com/jyotirmay_s)
 [![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-brown?logo=stackoverflow&style=flat&logoColor=white)](https://stackoverflow.com/users/3861545/jyotirmay)
