@@ -12,8 +12,8 @@
   </a> 
 </div>
 
-Senior FullStack Developer (DataScience) 
-[Prestatech](https://prestatech.com/en/), TUM Graduate, Berlin, Germany 
+Senior FullStack Developer (DataScience),  
+[Prestatech](https://prestatech.com/en/), TUM Graduate, Berlin, Germany, 
 <https://www.jyotirmays.com>
 
 
@@ -123,20 +123,20 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=147px/>
+         height=140vw/>
   </a>
 </div>
 
 <div align=right>
   <a align=right href="https://github.com/anuraghazra/github-readme-stats">
-    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=250" height=147px/>
+    <img align=right src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=250" height=140vw/>
   </a>
 </div>
 
 <div align="right">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
-         height=147px/>
+         height=140vw/>
   </a>
 </div>
 
