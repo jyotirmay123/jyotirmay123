@@ -50,26 +50,16 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
         src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
         alt="typescript" width="40" height="40" /> </a>
-<a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" title ="CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css3" width="40" height="40" /> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"   title ="JavaScript"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a>
-<!-- ML & AI -->
-<a href="https://pytorch.org" target="_blank" title ="pytorch"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
-        alt="pytorch" width="60" height="40" /> </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
+        src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
+        alt="azure" width="50" height="35" /> </a>
 <!-- Frameworks   -->
 <a href="https://flask.palletsprojects.com" target="_blank" title ="Flask"> <img
         src="https://objects.ruanbekker.com/assets/images/python-flask.png"
         alt="python" width="60" height="40" /> </a>
-<a href="https://www.djangoproject.com" target="_blank" title ="Django"> <img
-        src="https://static.djangoproject.com/img/logos/django-logo-negative.png"
-        alt="django" width="60" height="40" /> </a>
 <a href="https://angular.io/" target="_blank" title ="Angular"> <img
         src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
         alt="angular" width="40" height="40" /> </a>
@@ -79,22 +69,6 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a>
-<a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
-        src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
-        alt="ionic" width="40" height="40" /> </a>
-<a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
-        src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
-        alt="express" width="40" height="40" /> </a>
-<a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a>
-<!--  Cloud Platforms  -->
-<a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-        src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
-        alt="aws" width="40" height="40" /> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-        src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-        alt="azure" width="50" height="35" /> </a>
 <!-- CI/CD -->
 <a href="https://www.docker.com" target="_blank" title ="Docker"> <img
         src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
@@ -115,10 +89,10 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="40" height="40" /> </a>
-<!-- Other Platforms  -->
-<a href="https://heroku.com" target="_blank" title ="heroku"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-        alt="heroku" width="40" height="40" /> </a>
+<!-- ML & AI -->
+<a href="https://pytorch.org" target="_blank" title ="pytorch"> <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
+        alt="pytorch" width="60" height="40" /> </a>
 </p>
 
 <div align="left">
