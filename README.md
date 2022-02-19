@@ -6,11 +6,16 @@
 
 # 🧔 Profile
 
-FullStack+DataScience Developer,  
-TUM Graduate, Berlin, Germany,  
+<div align=right> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img align="right" width=350px src="https://github-profile-trophy.vercel.app/?username=jyotirmay123&row=2&margin-w=15&theme=onedark&column=4" alt="jyotirmay123" />
+  </a> 
+</div>
+
+Senior FullStack Developer (DataScience) 
+[Prestatech](https://prestatech.com/en/), TUM Graduate, Berlin, Germany 
 <https://www.jyotirmays.com>
 
-<!-- [![Website](https://img.shields.io/badge/-Website-purple?style=flat&labelColor=purple&logo=Google-Chrome&logoColor=white)](https://www.jyotirmays.com) -->
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
@@ -25,8 +30,9 @@ TUM Graduate, Berlin, Germany,
 [![Quora Follow](https://img.shields.io/website?label=quora&style=flat&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FJyotirmay-Senapati)](
 https://www.quora.com/profile/Jyotirmay-Senapati)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jyotirmay123)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/JjSenapati)](https://twitter.com/JjSenapati)
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/JjSenapati)](https://twitter.com/JjSenapati) -->
+
 
 ## ⚗️  Tools and Technologies
 
@@ -135,6 +141,11 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 </div>
 
 </br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ## 👷‍♂️ Experience
 <table border="0">
@@ -217,14 +228,6 @@ compared 4 state of the art Bayesian neural networks for image segmentation and 
 ## ⏲️ Daily Timeline
 
 [![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123&count_private=true&area=true&point=00FF00&theme=react-dark)](https://github.com/jyotirmay123/github-readme-activity-graph)
-
-## :trophy: Trophy
-
-<div align=center> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=jyotirmay123&row=1&margin-w=15&theme=onedark&column=9" alt="jyotirmay123" />
-  </a> 
-</div>
 
 <!-- ## 📌 Some Repos to Visit 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmay123&repo=BNN-for-Uncertainty-Estimation-of-Imaging-Biomarkers&show_icons=true)
