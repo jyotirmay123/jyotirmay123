@@ -50,13 +50,47 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
       src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
       alt="azure" width="50" height="35" /> </a>
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-        src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-        alt="typescript" width="40" height="40" /> </a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"   title ="JavaScript"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
         alt="javascript" width="40" height="40" /> </a>
+<!-- CI/CD -->
+<a href="https://www.docker.com" target="_blank" title ="Docker"> <img
+        src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
+        alt="azure" width="40" height="40" /> </a> 
+<!--  Tools  -->
+<a href="https://git-scm.com/" target="_blank" title ="git"> <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+<a href="https://postman.com" target="_blank" title ="Postman"> <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
+        height="40" /> </a>
+<!-- Databases -->
+<a href="https://www.postgresql.org" target="_blank" title ="Postgres"> <img
+        src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"
+        alt="mongodb" width="40" height="40" /> </a>
+<!-- ML & AI -->
+<a href="https://pytorch.org" target="_blank" title ="pytorch"> <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
+        alt="pytorch" width="60" height="40" /> </a>
+</p>
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
+         height=120px/>
+  </a>
+</div>
+<div>
+  <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=220" height=120px/>
+  </a>
+</div>
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
+         height=120px/>
+  </a>
+</div>
 
+</br>
 <!-- Frameworks   -->
 <!-- <a href="https://flask.palletsprojects.com" target="_blank" title ="Flask"> <img
         src="https://objects.ruanbekker.com/assets/images/python-flask.png"
@@ -70,53 +104,15 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 <!-- <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
         alt="bootstrap" width="40" height="40" /> </a> -->
-<!-- CI/CD -->
-<a href="https://www.docker.com" target="_blank" title ="Docker"> <img
-        src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
-        alt="azure" width="40" height="40" /> </a> 
-<!-- <a href="https://www.nginx.com" target="_blank" title ="nginx"> <img
-        src="https://www.nginx.com/wp-content/uploads/2021/03/NGINX-product-icon.svg"
-        alt="nginx" width="40" height="40" /> </a> -->
-<!--  Tools  -->
-<a href="https://git-scm.com/" target="_blank" title ="git"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank" title ="Postman"> <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-        height="40" /> </a>
-<!-- Databases -->
-<a href="https://www.postgresql.org" target="_blank" title ="Postgres"> <img
-        src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"
-        alt="mongodb" width="40" height="40" /> </a>
+<!-- <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
+        src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
+        alt="typescript" width="40" height="40" /> </a> -->
 <!-- <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
         alt="mongodb" width="40" height="40" /> </a> -->
-<!-- ML & AI -->
-<a href="https://pytorch.org" target="_blank" title ="pytorch"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
-        alt="pytorch" width="60" height="40" /> </a>
-</p>
-
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=120px/>
-  </a>
-</div>
-
-<div>
-  <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=220" height=120px/>
-  </a>
-</div>
-
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
-         height=120px/>
-  </a>
-</div>
-
-</br>
+<!-- <a href="https://www.nginx.com" target="_blank" title ="nginx"> <img
+        src="https://www.nginx.com/wp-content/uploads/2021/03/NGINX-product-icon.svg"
+        alt="nginx" width="40" height="40" /> </a> -->
 </br>
 </br>
 </br>
