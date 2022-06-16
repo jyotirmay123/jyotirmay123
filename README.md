@@ -130,10 +130,9 @@ __Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, N
 One of the advanced API based and Cloud-AI-backed Banking Analytics, and Instant Lending solutions provider
        
 * `Tech stack:` **Python**, **Azure Repos.Pipelines.Functions.ML-Workspace.Compute.**,**Terraform**, **Docker**, **Postman API**, **NLP**
-* End-to-end development & management of 7 unique APIs for the data-science and OpenAPI team.
-* Developed Entity-Match service for the fastest match against a million records using Ahocorasick algorithm.
-Further loading optimization to decrease the latency by 30%.
-* Generating a PDF report from microservices and building a frontend.
+* Setting up DS-RND development space on azure & management of 16+counting APIs for the data-science team.
+* Owning 3 services end to end and optimizing others for better performance, monitoring and formatting by automating them using azure yaml pipelines.
+* Improved legacy API calls by 5x and saved server cost to the company.
        
 ### Machine Learning Research Assistant — [AI-Med](http://ai-med.de/index.php), [LMU Munich](https://www.lmu.de/de/index.html) (Munich)  --  Apr 2019 - Feb 2021
 Research group for AI in Medical Imaging, lead by Prof. Wachinger; develops machine learning models for healthcare
