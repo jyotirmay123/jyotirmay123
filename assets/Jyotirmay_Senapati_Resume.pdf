@@ -1,0 +1,94 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 7703 >>
+stream
+0.05 0.20 0.34 rg BT /F2 19 Tf 48 798 Td (Jyotirmay Senapati) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 772 Td (senapati.jyotirmay@gmail.com | +49 176 4711 8982 | Berlin | github.com/jyotirmay123 | linkedin.com/in/jyotirmay-senapati) Tj ET
+0.05 0.38 0.55 rg 45 764 505 1 re f
+0.02 0.32 0.44 rg BT /F2 10.5 Tf 48 762 Td (SKILLS) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 744 Td (Proficient: Python, FastAPI, Pandas, Postgres, Docker, CI/CD, Kubernetes/Helm, Celery, Redis, Agile/Scrum) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 734 Td (Intermediate: Azure, Vue3/JS/TS, ClickHouse/DuckDB, Superset, Google Agent Development Kit \(ADK\)) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 724 Td (Languages: English \(C1\), German \(B1\), Hindi \(C1\), Odia \(C2\), Bengali \(B2\)) Tj ET
+0.05 0.38 0.55 rg 45 716 505 1 re f
+0.02 0.32 0.44 rg BT /F2 10.5 Tf 48 714 Td (WORK EXPERIENCE) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 696 Td (Senior Software Engineer \(Platform, Data & AI\) - Prestatech GmbH \(Berlin\) | Sep 2021 - Present) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 681 Td (Provider of API-based, cloud-AI-backed banking analytics and instant lending solutions.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 671 Td (- Tech stack: Python, FastAPI, Azure Foundry, DevOps, K8s, Helm, Docker, Postman, Vue3, Postgres, Celery, Redis) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 661 Td (- Transformed 3 rule-based finance APIs into an agentic harness on Azure Foundry \(NER, memory, MCP\).) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 651 Td (- Migrated 22 microservices from Azure Functions to Kubernetes using Helm charts.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 641 Td (- Improved service performance and reduced costs by 30%.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 631 Td (- Built data-obfuscation and ETL pipelines \(Kubernetes, Redis, Celery\) processing 400M transactions in 8 hours.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 621 Td (- Owned end-to-end development of 6 APIs for the data-science team, one of the company's main products.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 611 Td (- Built an internal tool exposing 6 key data-science services for faster R&D; optimized processing with Celery.) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 601 Td (Machine Learning Research Assistant - AI-Med, LMU Munich \(Munich\) | Apr 2019 - Feb 2021) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 586 Td (Research group for AI in Medical Imaging, led by Prof. Wachinger; develops machine learning models for healthcare.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 576 Td (- Tech stack: Python, Flask, Docker, PyTorch, scikit-learn/Pandas/Matplotlib/NumPy/NiBabel, Nginx, AWS) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 566 Td (- Hired full-time in August 2020 after a successful master's thesis with the group.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 556 Td (- Implemented state-of-the-art deep learning models \(QuickNAT, U-Nets\) for liver and spleen segmentation.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 546 Td (- Developed data pre-processing pipelines to prepare 23,000+ MRI scans for input into deep learning segmentation.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 536 Td (- Built a Python/Flask/Docker web app to visualize MRI scans with model-predicted segmentations and heatmaps; deployed on AWS) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 526 Td (\(EC2, S3, Lambda\).) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 516 Td (Machine Learning Research Intern - Disney Research Lab \(Zurich\) | Nov 2018 - Feb 2019) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 501 Td (- Tech stack: Python, Keras, Pandas/Matplotlib/NumPy) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 491 Td (- Collected, cleaned, and prepared facial-expression datasets \(e.g., crying, yawning\) to classify viewers' emotional) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 481 Td (reactions and measure which parts of a movie are engaging.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 471 Td (- Developed deep learning CNN models to classify 8 basic facial expressions from the Cohn-Kanade dataset.) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 461 Td (Data Engineer \(Working Student\) - Quant-IP \(Munich\) | Mar 2018 - Oct 2018) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 446 Td (Data provider serving large financial institutions.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 436 Td (- Tech stack: Python, Flask, TypeScript/JavaScript, Angular, Ionic) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 426 Td (- Built a web application to visualize financial data and innovation score using Flask/Plotly at Bloomberg Magic.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 416 Td (- Developed a Flask/Angular/Ionic web and mobile app to analyze and visualize company innovation and growth from patent data.) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 406 Td (Software Engineer - Pegasystems \(Bangalore, India\) | Mar 2016 - Mar 2017) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 391 Td (American software company for customer relationship management and digital process automation.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 381 Td (- Tech stack: JavaScript, HTML5, CSS) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 371 Td (- Solved client issues in their web applications using JavaScript, HTML, and CSS.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 361 Td (- Trained 5 new employees as part of the Pega recruitment and UI technology training group.) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 351 Td (Software Engineer - Tata Consultancy Services \(Bangalore, India\) | Mar 2014 - Mar 2016) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 336 Td (Indian IT services and consulting company, one of India's largest by market capitalization.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 326 Td (- Tech stack: JavaScript/TypeScript, Angular, Node, MongoDB, HTML, CSS, PHP, MySQL) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 316 Td (- Received the TCS GEMS award for coding excellence among 500 colleagues on the Qualcomm account.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 306 Td (- Managed and improved data consistency of 200,000+ records across 500 MySQL tables for a Qualcomm application.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 296 Td (- Built a hybrid app with Angular used by employees of Qualcomm and TCS.) Tj ET
+0.05 0.38 0.55 rg 45 288 505 1 re f
+0.02 0.32 0.44 rg BT /F2 10.5 Tf 48 286 Td (EDUCATION) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 268 Td (M.Sc. Informatics - TU Munich \(Munich\) | 2017 - 2020) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 253 Td (- GPA 2.1 \(German scale, 1.0 = best\); master's thesis accepted at MLMI 2020 \(Machine Learning in Medical Imaging\): compared 4) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 243 Td (state-of-the-art Bayesian neural networks for image segmentation, analyzed model accuracy with PyTorch, scikit-learn, and) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 233 Td (NumPy, and developed improvements.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 223 Td (- Research paper: https://arxiv.org/pdf/2008.12680.pdf) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 213 Td (- i-Graph project: Wrote a TypeScript web app using Rasa NLU to translate natural language into SQL queries.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 203 Td (- Expression prediction project: Detected emotions in image and video data using PyTorch and OpenCV.) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 193 Td (- Allianz HackaTUM-2019: Won 1st prize out of 37 teams for detecting cracks on metal using image analysis.) Tj ET
+0.13 0.17 0.24 rg BT /F2 8.5 Tf 48 183 Td (Bachelor Electronics and Communications - Gandhi Institute \(Gunupur, India\) | 2009 - 2013) Tj ET
+0.13 0.17 0.24 rg BT /F1 7.5 Tf 48 168 Td (- Top 15% of class \(GPA 8.3/10\); bachelor's thesis on data-driven crack detection in railway tracks.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8150
+%%EOF
