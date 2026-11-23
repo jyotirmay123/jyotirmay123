@@ -1,11 +1,16 @@
 <div align="center">
 
-<img width="100%" alt="Jyotirmay Senapati — AI Engineering, Cloud Platforms & Applied Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0B1023,45:17365D,100:087E8B&text=Jyotirmay%20Senapati&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Cloud%20Platforms%20%E2%80%A2%20Applied%20ML&descAlignY=59&descSize=17&animation=fadeIn"/>
+# 👋 Jyotirmay Senapati
+
+**AI Engineering • Cloud Platforms • Applied Machine Learning**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### From research prototypes to production-grade AI systems
 
 **Berlin, Germany** · **Senior Software Engineer (Platform, Data & AI) @ [Prestatech](https://prestatech.com/en/)** · **M.Sc. Informatics, [Technical University of Munich](https://www.tum.de/)**
 
+[![Resume PDF](https://img.shields.io/badge/Download_Resume-PDF-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/jyotirmay123/jyotirmay123/raw/refs/heads/master/resume.pdf)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1023?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jyotirmays.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
@@ -190,6 +195,6 @@ Interested in **AI systems, cloud-native architecture, machine learning, or scal
 
 [**LinkedIn**](https://www.linkedin.com/in/jyotirmay-senapati/) · [**Email**](mailto:senapati.jyotirmay@gmail.com) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ) · [**Portfolio**](https://www.jyotirmays.com)
 
-<img alt="Decorative footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0B1023,45:17365D,100:087E8B"/>
+<sub>Building reliable AI systems from research to production.</sub>
 
 </div>
