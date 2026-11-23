@@ -1,223 +1,195 @@
-<!-- REF LATER: https://github.com/sudip-mondal-2002  -->
+<div align="center">
 
-<!-- <p align="right" style="margin-bottom: -7% !important">
-  <img src="https://jyotirmays.com/img/logo.png" height="20"/>
-</p> -->
+<img width="100%" alt="Jyotirmay Senapati — AI Engineering, Cloud Platforms & Applied Machine Learning" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:0B1023,45:17365D,100:087E8B&text=Jyotirmay%20Senapati&fontColor=FFFFFF&fontSize=44&fontAlignY=37&desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Cloud%20Platforms%20%E2%80%A2%20Applied%20ML&descAlignY=59&descSize=17&animation=fadeIn"/>
 
-# 🧔 Profile
+### From research prototypes to production-grade AI systems
 
-<div align=right> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="right" width=350px src="https://github-profile-trophy.vercel.app/?username=jyotirmay123&row=2&margin-w=15&theme=onedark&column=4" alt="jyotirmay123" />
-  </a> 
+**Berlin, Germany** · **Senior Software Engineer (Platform, Data & AI) @ [Prestatech](https://prestatech.com/en/)** · **M.Sc. Informatics, [Technical University of Munich](https://www.tum.de/)**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B1023?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jyotirmays.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://jyotirmays.medium.com/)
+
 </div>
 
-Senior FullStack Developer (DataScience) </br>
-[Prestatech](https://prestatech.com/en/), TUM Graduate, Berlin, Germany </br>
-<https://www.jyotirmays.com> </br>
+---
 
+## 👋 A little about me
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
-[![GoogleScholar](https://img.shields.io/badge/-Citations-yellow?&style=flat&logo=GoogleScholar&logoColor=blue)](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ#gsc_rsb_st)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?logo=hackerrank&style=flat)](https://www.hackerrank.com/jyotirmay_s)
-[![Stackoverflow](https://img.shields.io/badge/-Stackoverflow-brown?logo=stackoverflow&style=flat&logoColor=white)](https://stackoverflow.com/users/3861545/jyotirmay)
-[![Resume](https://img.shields.io/badge/-Resume-00008b?style=flat&labelColor=00008b&logo=esphome&logoColor=white)](https://www.jyotirmays.com/data/resume.pdf)
-[![Medium](https://img.shields.io/badge/-Medium-231210?&style=flat&logo=medium&logoColor=white)](https://jyotirmays.medium.com/)
+I'm a **Berlin-based software engineer** working at the intersection of **production AI, backend platforms, data engineering, and machine learning**. My work spans agentic financial APIs on Azure, Kubernetes-based microservice platforms, high-throughput transaction processing, and medical-image deep learning research.
 
-[![GitHub Follow](https://img.shields.io/github/followers/jyotirmay123?label=follow&logo=github&style=flat)](https://github.com/jyotirmay123)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JjSenapati?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2FJjSenapati&screen_name=JjSenapati)
-[![YouTube Follow](https://img.shields.io/youtube/channel/views/UChTfLOkaxTq-II8WqG_32-A?logo=YouTube&style=flat)](https://www.youtube.com/channel/UChTfLOkaxTq-II8WqG_32-A?original_referer=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCTm_fmEE-cRBjyqM_noDEZA&screen_name=Subscribe)
-[![Quora Follow](https://img.shields.io/website?label=quora&style=flat&url=https%3A%2F%2Fwww.quora.com%2Fprofile%2FJyotirmay-Senapati)](
-https://www.quora.com/profile/Jyotirmay-Senapati)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jyotirmay123)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/JjSenapati)](https://twitter.com/JjSenapati)
+I enjoy turning difficult research and engineering problems into **reliable, observable, scalable systems** — with attention to latency, maintainability, and cost.
 
+- 🤖 **AI engineering:** Reworked three rule-based financial APIs into an agentic harness on **Azure AI Foundry**, using named-entity recognition, memory, and MCP.
+- ☁️ **Cloud architecture:** Migrated **22 microservices** from Azure Functions to Kubernetes with Helm.
+- ⚡ **Performance:** Improved service performance and reduced costs by **30%**.
+- 📊 **Data at scale:** Built data-obfuscation and ETL pipelines processing **400 million transactions in 8 hours**.
+- 🧠 **Research foundation:** Built medical-image segmentation models and pipelines for **23,000+ MRI scans** at LMU Munich.
 
+## 📈 Selected engineering impact
 
-## ⚗️  Tools and Technologies
-
-<!-- __Proficient:__ Python, Django, Flask, Postgres, Docker, CI / CD, Pytorch / NumPy / Pandas / scikit-learn / Matplotlib /
-NiBabel, Agile/Scrum/Kanban, Deep Learning Products.  
-__Intermediate:__ JavaScript / TypeScript, HTML / CSS, Angular, Node, MongoDB, Nginx, AWS / GCP -->
-
-
-<p align="left">
-<!-- Languages -->
-<a href="https://www.python.org" target="_blank" title ="Python"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-        alt="python" width="40" height="40" /> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-      src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-      alt="azure" width="50" height="35" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"   title ="JavaScript"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="40" height="40" /> </a>
-<!-- CI/CD -->
-<a href="https://www.docker.com" target="_blank" title ="Docker"> <img
-        src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"
-        alt="azure" width="40" height="40" /> </a> 
-<!--  Tools  -->
-<a href="https://git-scm.com/" target="_blank" title ="git"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank" title ="Postman"> <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-        height="40" /> </a>
-<!-- Databases -->
-<a href="https://www.postgresql.org" target="_blank" title ="Postgres"> <img
-        src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"
-        alt="mongodb" width="40" height="40" /> </a>
-<!-- ML & AI -->
-<a href="https://pytorch.org" target="_blank" title ="pytorch"> <img
-        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"
-        alt="pytorch" width="60" height="40" /> </a>
-</p>
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&langs_count=12&count_private=true&theme=highcontrast&layout=compact&hide=jupyter%20notebook&custom_title=Most used languages on Github" 
-         height=120px/>
-  </a>
-</div>
-<div>
-  <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&count_private=true&theme=highcontrast&show_icons=true&card_width=220" height=120px/>
-  </a>
-</div>
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@JyotirmayS&hide_progress=true&theme=highcontrast&langs_count=10&layout=compact&custom_title=Recently Time Spent On" 
-         height=120px/>
-  </a>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><h2>400M</h2><strong>transactions</strong><br/>processed in 8 hours</td>
+<td align="center" width="25%"><h2>22</h2><strong>microservices</strong><br/>migrated to Kubernetes</td>
+<td align="center" width="25%"><h2>30%</h2><strong>cost reduction</strong><br/>alongside performance improvements</td>
+<td align="center" width="25%"><h2>23K+</h2><strong>MRI scans</strong><br/>prepared for deep-learning pipelines</td>
+</tr>
+</table>
 </div>
 
-</br>
-<!-- Frameworks   -->
-<!-- <a href="https://flask.palletsprojects.com" target="_blank" title ="Flask"> <img
-        src="https://objects.ruanbekker.com/assets/images/python-flask.png"
-        alt="python" width="60" height="40" /> </a> -->
-<!-- <a href="https://angular.io/" target="_blank" title ="Angular"> <img
-        src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
-        alt="angular" width="40" height="40" /> </a> -->
-<!-- <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-        alt="nodejs" width="40" height="40" /> </a> -->
-<!-- <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a> -->
-<!-- <a href="https://www.typescriptlang.org/" target="_blank" title ="Typescript"> <img
-        src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
-        alt="typescript" width="40" height="40" /> </a> -->
-<!-- <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb" width="40" height="40" /> </a> -->
-<!-- <a href="https://www.nginx.com" target="_blank" title ="nginx"> <img
-        src="https://www.nginx.com/wp-content/uploads/2021/03/NGINX-product-icon.svg"
-        alt="nginx" width="40" height="40" /> </a> -->
-</br>
-</br>
-</br>
-</br>
-</br>
+## 🧰 Technology stack
 
-## 👷‍♂️ Experience
-<table border="0">
- <tr>
-     <td>
-       
-### 🐺 PROFESSIONAL
+<div align="center">
 
-### Senior Software Developer — [Prestatech GMBH](https://prestatech.com), Berlin (Berlin)  --  Sep 2021 - Present
-One of the advanced API based and Cloud-AI-backed Banking Analytics, and Instant Lending solutions provider
-       
-* `Tech stack:` **Python**, **Azure Repos.Pipelines.Functions.ML-Workspace.Compute.**,**Terraform**, **Docker**, **Postman API**, **NLP**
-* Setting up DS-RND development space on azure & management of 16+counting APIs for the data-science team.
-* Owning 3 services end to end and optimizing others for better performance, monitoring and formatting by automating them using azure yaml pipelines.
-* Improved legacy API calls by 5x and saved server cost to the company.
-       
-### Machine Learning Research Assistant — [AI-Med](http://ai-med.de/index.php), [LMU Munich](https://www.lmu.de/de/index.html) (Munich)  --  Apr 2019 - Feb 2021
-Research group for AI in Medical Imaging, lead by Prof. Wachinger; develops machine learning models for healthcare
-       
-* `Tech stack:` **Python**, **Flask**, **Docker**, **PyTorch**, **scikit-learn/Pandas/Matplotlib/NumPy/NiBabel**, **Nginx**, **AWS**
-* Offered to work full-time starting in August 2020 after successfully working together on Master thesis
-* Implemented state of the art deep learning models (Quicknat, U-Nets) for liver and spleen segmentation using
-nnU-net, Octave-Conv, SWA, SWAG, Thick-slices, Multi-phases
-* Developed data pre-processing pipelines to prepare 23.000+ MRI scans for input into deep learning segmentation
-* Built web application using Python/Flask/Docker to visualise MRI scans and its segmentations/heatmaps
-predicted by machine learning models; deployed using AWS EC2/S3/Lambda
+**Backend & programming**
 
-### Machine Learning Research (intern) — [Disney Research Lab](https://studios.disneyresearch.com/) (Zurich)  --  Nov 2018 - Feb 2019
-       
-* `Tech stack:` **Python**, **Keras**, **Pandas/Matplotlib/Numpy**
-* Collected, cleaned and prepared datasets of facial expressions (e.g. cry, yawn) to be used to classify emotional
-reactions of movie viewers and measure which pieces of a movie are engaging
-* Developed deep learning CNN models to classify 8 basic facial expressions from Cohn-Kanade dataset
-       
-### Data Engineer (working student) — [Quant-IP](https://quant-ip.com/) (Munich)  --  Mar 2018 - Oct 2018
-quant-ip.com is a data provider serving large financial institutions
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nodejs,flask&theme=dark" alt="Python, FastAPI, JavaScript, TypeScript, Node.js, Flask" />
 
-* `Tech stack:` **Python**, **Flask**, **TypeScript/JavaScript**, **Angular**, **Ionic**
-* Built web application to visualise financial data and innovation score using Flask/Plotly at Bloomberg Magic
-* Developed web and mobile application in Flask, Angular and Ionic to analyse and visualise company innovations
-and growth, based on patent data
-       
-### Software engineer — [Pega System](https://www.pega.com/) (Bangalore, India) --  Mar 2016 - Mar 2017
-American software company for customer relationship management and digital process automation
+**Cloud, infrastructure & delivery**
 
-* `Tech stack:` **JavaScript**, **HTML5**, **CSS3**
-* Solved client issues in their web applications using JavaScript, HTML and CSS
-* Trained 5 new employees as part of Pega recruitment and UI technology training group
-       
-### Software engineer — [Tata Consultancy Services](https://www.tcs.com/) (Bangalore, India) -- Mar 2014 - Mar 2016
-Indian IT services and consulting company, largest company by market capitalization in India
-       
-* `Tech stack:` **JavaScript/TypeScript**, **Angular**, **Node**, **MongoDB**, **HTML**, **CSS**, **PHP**, **MySQL**
-* Awarded TCS GEMS award for excellent coding skills among 500 co-workers at the Qualcomm account
-* Managed and improved data consistency of 200.000+ records across 500 MySQL tables for Qualcomm application
-* Developed user & administration interface and CRON tasks for Qualcomm learning management web application
-* Built hybrid app with Angular used by employees of Qualcomm and TCS
-       </td>
-     </tr>
-    <tr>
-      <td>
-        
-### 📖 EDUCATIONAL
-        
-### M.Sc. Informatics — [TU Munich](https://www.tum.de/) (Munich)  --  2017 - 2020
-* [Master Thesis](https://arxiv.org/pdf/2008.12680.pdf) which was accepted at **[MLMI2020 - https://arxiv.org/pdf/2008.12680.pdf](https://arxiv.org/pdf/2008.12680.pdf)** (machine learning
-conference on medical imaging): Analysed deep learning model accuracy using PyTorch/scikit-learn/NumPy;
-compared 4 state of the art Bayesian neural networks for image segmentation and developed improvements
-* **`i-Graph project:`** Wrote web application in TypeScript using RASA-NLU to translate language into SQL queries
-* **`Expression prediction project:`** Detected emotions on image and video data using PyTorch and OpenCV
-* **`Allianz HackaTUM-2019:`** Won 1st prize out of 37 teams for detecting cracks on metal using image analysis
-        
-### Bachelor Electronics and Communications — [Gandhi Institute](https://www.giet.edu/) (Gunupur, India)  --  2009 - 2013
-* Above-average student (top 15%, GPA 8.3); wrote bachelor thesis detecting cracks in railway tracks based on data
-      </td>
-    </tr>
-   </table>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,githubactions&theme=dark" alt="Azure, AWS, Docker, Kubernetes, Terraform, Git, GitHub Actions" />
 
-## ⏲️ Daily Timeline
+**Data, storage & frontend**
 
-[![Jyotirmay's github activity graph](https://activity-graph.herokuapp.com/graph?username=jyotirmay123&count_private=true&area=true&point=00FF00&theme=react-dark)](https://github.com/jyotirmay123/github-readme-activity-graph)
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,vue,angular&theme=dark" alt="PostgreSQL, Redis, MongoDB, MySQL, Vue, Angular" />
 
-<!-- ## 📌 Some Repos to Visit 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jyotirmay123&repo=BNN-for-Uncertainty-Estimation-of-Imaging-Biomarkers&show_icons=true)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rostlab&repo=JS18_ProjectA_Group2&show_icons=true) -->
+**Machine learning & research**
 
-
-
-<!-- <table>
-  <td align="center">
-    <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.svg">
-    <details><summary>Full year version</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.isocalendar.fullyear.svg">
-    </details>
-    <img width="900" height="1" alt="">
-    
-  </td>
-</table> -->
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
 
 <br/>
-<br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&color=8526de&size=30&lines=Thanks+for+visiting!)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-27354A?style=flat-square)
+![Google ADK](https://img.shields.io/badge/Google_Agent_Development_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0B7285?style=flat-square)
+
+</div>
+
+> **Core strengths:** Python · FastAPI · PostgreSQL · Docker · CI/CD · Kubernetes / Helm · Celery · Redis · Agile / Scrum  
+> **Additional experience:** Azure · Vue 3 / JavaScript / TypeScript · ClickHouse / DuckDB · Superset · Google ADK
+
+## 💼 Professional journey
+
+### 🚀 Senior Software Engineer — Platform, Data & AI
+**[Prestatech GmbH](https://prestatech.com/en/) · Berlin · Sep 2021 – Present**
+
+Building financial analytics and lending platforms backed by APIs, data pipelines, and cloud AI.
+
+- Transformed **three rule-based finance APIs** into an agentic solution on **Azure AI Foundry**, incorporating **NER, memory, and MCP**.
+- Migrated **22 microservices** from Azure Functions to **Kubernetes using Helm charts**.
+- Delivered **30% lower costs** alongside improved service performance.
+- Built **data-obfuscation and ETL pipelines** with Kubernetes, Redis, and Celery, processing **400M transactions in 8 hours**.
+- Owned end-to-end development of **six APIs** for a core data-science product.
+- Created an internal tool exposing **six data-science services** to speed up research and development.
+
+`Python` `FastAPI` `Azure AI Foundry` `Kubernetes` `Helm` `Docker` `PostgreSQL` `Redis` `Celery` `Vue 3`
+
+<details>
+<summary><strong>🔬 Earlier roles — research, data engineering & software development</strong></summary>
+
+#### Machine Learning Research Assistant — [AI-Med, LMU Munich](https://www.lmu.de/) 
+**Munich · Apr 2019 – Feb 2021**
+
+- Implemented deep-learning segmentation approaches including **QuickNAT** and **U-Nets** for liver and spleen imaging.
+- Developed preprocessing pipelines for **23,000+ MRI scans**.
+- Built a Python/Flask/Docker web app to display MRI images, predicted segmentations, and heatmaps; deployed on **AWS EC2, S3, and Lambda**.
+
+#### Machine Learning Research Intern — [Disney Research](https://studios.disneyresearch.com/)
+**Zurich · Nov 2018 – Feb 2019**
+
+- Prepared facial-expression datasets to analyze viewer reactions.
+- Developed CNN models to classify **eight basic facial expressions** using the Cohn–Kanade dataset.
+
+#### Data Engineer (Working Student) — [Quant-IP](https://quant-ip.com/)
+**Munich · Mar 2018 – Oct 2018**
+
+- Built Flask/Plotly financial analytics visualizations and an Angular/Ionic application to explore innovation and patent data.
+
+#### Software Engineer — [Pegasystems](https://www.pega.com/)
+**Bangalore · Mar 2016 – Mar 2017**
+
+- Resolved frontend client issues and helped train **five new employees**.
+
+#### Software Engineer — [Tata Consultancy Services](https://www.tcs.com/)
+**Bangalore · Mar 2014 – Mar 2016**
+
+- Received the **TCS GEMS award** for coding excellence among **500 colleagues** on the Qualcomm account.
+- Improved consistency of **200,000+ records across 500 MySQL tables** and built web and hybrid applications.
+
+</details>
+
+## 🎓 Research, education & awards
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 M.Sc. Informatics
+**[Technical University of Munich](https://www.tum.de/) · 2017–2020**
+
+- Master's research on **Bayesian neural networks and uncertainty in medical-image segmentation**.
+- Compared four state-of-the-art Bayesian approaches.
+- Thesis accepted at **MLMI 2020**.
+
+📄 **[Read the research paper (arXiv)](https://arxiv.org/pdf/2008.12680.pdf)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 HackaTUM 2019
+**Allianz challenge — 1st place of 37 teams**
+
+Applied image analysis to detect cracks in metal surfaces.
+
+### 🎓 B.Tech / Bachelor's
+**Electronics & Communications · Gandhi Institute · 2009–2013**
+
+Graduated in the **top 15%** of the class.
+
+</td>
+</tr>
+</table>
+
+**Other academic projects:** Natural-language-to-SQL using Rasa NLU and TypeScript · Emotion prediction from image and video using PyTorch and OpenCV.
+
+## 🌐 Languages
+
+**English** C1 · **German** B1 · **Hindi** C1 · **Odia** C2 · **Bengali** B2
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img alt="GitHub contribution activity graph" width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jyotirmay123&bg_color=0b1023&color=77d9e8&line=19b7c6&point=ffffff&area=true&area_color=126c81&hide_border=true" />
+
+<img alt="Most used public repository languages" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotirmay123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img alt="GitHub statistics" width="49%" src="https://github-readme-stats.vercel.app/api?username=jyotirmay123&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<sub>GitHub language statistics reflect repository content, not professional proficiency. Third-party stats cards may occasionally be unavailable.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's connect
+
+Interested in **AI systems, cloud-native architecture, machine learning, or scalable backend engineering**? Feel free to reach out.
+
+[**LinkedIn**](https://www.linkedin.com/in/jyotirmay-senapati/) · [**Email**](mailto:senapati.jyotirmay@gmail.com) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ) · [**Portfolio**](https://www.jyotirmays.com)
+
+<img alt="Decorative footer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0B1023,45:17365D,100:087E8B"/>
+
+</div>
