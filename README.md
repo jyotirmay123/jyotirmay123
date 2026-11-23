@@ -7,6 +7,7 @@
 **Berlin, Germany** · **Senior Software Engineer (Platform, Data & AI) @ [Prestatech](https://prestatech.com/en/)** · **M.Sc. Informatics, [Technical University of Munich](https://www.tum.de/)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B1023?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.jyotirmays.com)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-14B8A6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/jyotirmay123/jyotirmay123/raw/refs/heads/master/assets/Jyotirmay_Senapati_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jyotirmay-senapati/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senapati.jyotirmay@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=oyNZNvIAAAAJ)
