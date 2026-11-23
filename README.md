@@ -45,43 +45,37 @@ I enjoy turning difficult research and engineering problems into **reliable, obs
 </table>
 </div>
 
-## 🧰 Technology stack
+## 🧰 AI-first technology stack
 
 <div align="center">
 
-**Backend & programming**
+**AI application engineering — primary stack**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,ts,nodejs,flask&theme=dark" alt="Python, FastAPI, JavaScript, TypeScript, Node.js, Flask" />
-
-**Cloud, infrastructure & delivery**
-
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,terraform,git,githubactions&theme=dark" alt="Azure, AWS, Docker, Kubernetes, Terraform, Git, GitHub Actions" />
-
-**Data, storage & frontend**
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql,vue,angular&theme=dark" alt="PostgreSQL, Redis, MongoDB, MySQL, Vue, Angular" />
-
-**Machine learning & research**
-
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" alt="PyTorch, scikit-learn, OpenCV" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 <br/>
 
-![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-27354A?style=flat-square)
-![Google ADK](https://img.shields.io/badge/Google_Agent_Development_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square&logo=apachesuperset&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0B7285?style=flat-square)
+**Agentic AI & LLM platforms**
+
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Azure AI Agent SDK](https://img.shields.io/badge/Azure_AI_Agent_SDK-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0067B8?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Langfuse](https://img.shields.io/badge/Langfuse-1C3C3C?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4F46E5?style=for-the-badge&logoColor=white) ![LLM evaluation](https://img.shields.io/badge/LLM_evaluation-0F766E?style=for-the-badge&logoColor=white) ![Prompt caching](https://img.shields.io/badge/Prompt_caching-455A64?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**Data, serving & MLOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logoColor=black) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white) ![SLM distillation](https://img.shields.io/badge/SLM_distillation-6941C6?style=for-the-badge&logoColor=white) ![Quantization](https://img.shields.io/badge/Quantization-6D28D9?style=for-the-badge&logoColor=white)
+
+<br/>
+
+**Cloud delivery & supporting tools**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-0F766E?style=for-the-badge&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-> **Core strengths:** Python · FastAPI · PostgreSQL · Docker · CI/CD · Kubernetes / Helm · Celery · Redis · Agile / Scrum  
-> **Additional experience:** Azure · Vue 3 / JavaScript / TypeScript · ClickHouse / DuckDB · Superset · Google ADK
+> **Production focus:** Agentic financial APIs · Azure AI Foundry / Agent SDK · MCP-integrated orchestration · Transaction tagging · Langfuse tracing and evaluation · LLM-to-SLM distillation · Data-aware quantization · Prompt and transaction-fingerprint caching · Kubernetes-based inference and service delivery.
+>
+> **Core engineering foundations:** Python · FastAPI · Pydantic · ClickHouse · Redis · PostgreSQL · Docker · Kubernetes / Helm · Celery · CI/CD. Agent and model tooling includes active development and evaluation work; the badges are not proficiency ratings.
 
 ## 💼 Professional journey
 
